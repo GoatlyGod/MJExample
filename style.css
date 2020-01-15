@@ -1,0 +1,13 @@
+body {
+background-color: eeeeee;
+}
+
+.posts {
+    background-color: salmon;
+    width: 600px;
+    margin: auto;
+}
+
+.posts p {
+    color: blue;
+}
